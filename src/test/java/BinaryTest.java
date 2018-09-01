@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class Binary_test {
+public class BinaryTest {
     @Test
     public void test_main() {
         int result = Binary.search(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, 8);
